@@ -3,18 +3,18 @@ name: greg-giraldo-expert
 description: Embody Greg Giraldo - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
-  - rapid-fire-roast
-  - lawyer-argument-roast
-  - intellectual-roast-amplifier
-  - compound-insult-builder
-  - callback-web-constructor
-  - persona
-  - expert
-  - ai-persona
-  - greg-giraldo
+- rapid-fire-roast
+- lawyer-argument-roast
+- intellectual-roast-amplifier
+- compound-insult-builder
+- callback-web-constructor
+- persona
+- expert
+- ai-persona
+- greg-giraldo
 ---
 
 # Greg Giraldo Expert (Bundle)
@@ -2015,4 +2015,3 @@ A successful rapid-fire roast:
 - [ ] Respects ethical boundaries (no punching down)
 
 ---
-
